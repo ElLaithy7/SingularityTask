@@ -1,0 +1,7 @@
+.footerContainer {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    width: 100%;
+    align-items: center;
+}

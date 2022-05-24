@@ -1,0 +1,9 @@
+.userDetailsContainer{display: flex; flex-direction: row; margin-left: 15px;}
+
+.userDetails{display: flex; flex-direction: column; margin-top: -10%;}
+
+.detailsText1{font-size: smaller; font-weight: 200;}
+
+.detailsText2{font-size: medium; font-weight: 900; margin-top: -10px;} 
+
+.detailsText3{font-size: small; font-weight: bold; margin-left: 50px;}

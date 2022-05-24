@@ -1,0 +1,3 @@
+.MainChimpCardContainer{display: flex; flex-direction: column; border-radius: 15px; width: 12%; height: 30%; 
+    background-color: white; position: absolute; bottom: 50px; margin-left: 2%; 
+    background: linear-gradient(to bottom, #FFFFFF 0%, #FFFFFF 72%, #E4E6FF 72%, #E4E6FF 100%);}

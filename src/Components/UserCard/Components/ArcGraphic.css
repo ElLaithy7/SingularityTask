@@ -1,0 +1,9 @@
+.arc{width: 100px;
+    height: 50px; /* as the half of the width */
+    background-color: white;
+    border-top-left-radius: 150px;  /* 100px of height + 10px of border */
+    border-top-right-radius: 150px; /* 100px of height + 10px of border */
+    border: 20px solid #C5CBFF;
+    border-bottom: 0;
+        
+}

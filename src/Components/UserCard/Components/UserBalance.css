@@ -1,0 +1,5 @@
+.balanceContainer{display: flex; flex-direction: column;}
+
+.balance{display: flex; font-weight: bold;  margin: -20px 0 -35px 0;}
+
+.balanceText{display: flex; font-size: small; padding-bottom: 50%; color: #948F9B;}

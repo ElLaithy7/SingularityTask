@@ -1,0 +1,5 @@
+ .mainContainer{ display: flex; background-color: #FCFAFB; height: 100vh;}
+ 
+ .container1 {width: 65%; z-index: 1;}
+
+.container2 {width: 35%;  background-color: #C5CBFF; float: right; z-index: 3;}

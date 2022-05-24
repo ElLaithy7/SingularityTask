@@ -1,0 +1,5 @@
+.userCard{display: flex; flex-direction: column; background-color: #F9F9F9; border-radius: 10px; width: 95%; height: 40%; margin-left: -1%; z-index: 2;}
+
+.userCardHeader{display: flex; flex-direction: row; margin: 8% 0 0 50%;}
+
+.arcContainer{display: flex; flex-direction: column; margin-left: 50%; align-items: center;}

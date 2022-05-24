@@ -1,0 +1,5 @@
+.textContainer{display: flex; flex-direction: row;}
+
+.textContainer div{ display: flex; flex-direction: column; width: 30%; margin-right: 25px;}
+
+.textContainer h1{margin-block-start: 0em; margin-block-end: 0em;}

@@ -1,0 +1,8 @@
+.MainChimpLogoContainer{display: flex; flex-direction: column; margin-top: 10%;}
+
+.MainChimpText{font-weight: bolder;}
+
+.mainChimpLogo{
+    width: 30%;
+    height: 55%;
+  }

@@ -1,0 +1,16 @@
+.creditCard{ background-color: #22172B ; border-radius: 15px; width: 18%; height: 20%;
+    color:white; display: flex; flex-direction: column; position: absolute; right: 320px; top: 250px;} 
+
+.moneyText{ font-weight: 650; font-size: larger; margin: 0 0 5% 10%; width: 50%; }
+
+.iconContainer{margin-right: 10%;}
+
+.cardHeaderContainer{display: flex; flex-direction: row; margin: auto;  width: 100%; justify-content: space-between; }
+
+.detailsContainer1{ margin: 0 0 5% 10%; font-size: small;}
+
+.detailsContainer2{ margin: 0 0 5% 10%; font-size: x-small;}
+
+.detailsContainer3{ margin: 0 0 5% 10%; font-size: x-small;}
+
+.nameContainer{ display: flex; flex-direction: row;}

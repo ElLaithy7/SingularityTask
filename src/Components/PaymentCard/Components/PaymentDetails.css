@@ -1,0 +1,10 @@
+.paymentTextContainer{display: flex; flex-direction: row;}
+
+.paymentDetailsContainer{ display: flex; margin: auto;}
+
+.paymentText1{font-size: small; margin-right: 20px;}
+
+.paymentText2{font-size: small;}
+
+.paymentNumbers{font-weight: bolder; font-size: medium;}
+

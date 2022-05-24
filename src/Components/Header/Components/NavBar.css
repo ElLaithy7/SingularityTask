@@ -1,0 +1,11 @@
+.navBarContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 40%;
+    font-weight: 600;
+}
+
+.pricingContainer{display: flex; flex-direction: row; }
+
+.pricingText{ margin-right: 5px;}
